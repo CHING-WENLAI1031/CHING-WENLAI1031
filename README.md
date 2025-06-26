@@ -16,13 +16,16 @@ I specialize in automating workflows with **UiPath** and **Excel VBA**, building
 
 ---
 
-💡 Recently, I'm transitioning into **backend development**, building real-world projects with classmates and applying best practices in collaborative coding.
+💡 Recently, I'm transitioning into backend development, building real-world projects with classmates and applying best practices in collaborative coding.
 
 🛠️ Side Projects & Skills:
 
-- ✅ Finished a **video course platform** for solo instructors
-- 🔄 Use of **Git Flow**, **ESLint**, and team-based workflows
-- 📚 Familiar with RESTful API design, DB modeling, and deployment
+- ✅ Finished a **video course platform** for solo instructors  
+- 💳 Implemented **payment gateway integration** for checkout functionality  
+- 🗂️ Used **TypeORM migrations** to manage and version database schema  
+- 🔄 Collaborated using **Git Flow**, **ESLint**, and team-based workflows  
+- 📚 Familiar with **RESTful API design**, **DB modeling**, and **deployment pipelines**
+
 
 ---
 
